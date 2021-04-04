@@ -1,4 +1,4 @@
-# Multi_Source_DRL
+# Multi-Source Transfer Learning for Deep Reinforcement Learning
 Code of the paper "Multi-Source Transfer Learning for Deep Reinforcement Learning"
 
 ## Abstract:
